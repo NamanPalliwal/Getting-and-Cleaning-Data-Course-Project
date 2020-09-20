@@ -4,13 +4,13 @@
 ## Peer-graded Assignment: Getting and Cleaning Data Course Project
 * This repository has the instructions on how to run analysis on Human Activity recognition dataset.
 
-**Dataset**
+**1) Dataset**
 * [Human Activity Recognition Using Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
-**Files**
+**2) Files**
 * `CodeBook.md` a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data
 
-**`run_analysis.R` performs the data preparation and then followed by the 5 steps required as described in the course project’s definition:**
+**3) `run_analysis.R` performs the data preparation and then followed by the 5 steps required as described in the course project’s definition:**
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
 3. Uses descriptive activity names to name the activities in the data set
